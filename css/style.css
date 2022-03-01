@@ -73,3 +73,31 @@ ul li a:hover{
     margin-right: 20px;
 
 }
+
+p{
+    color: blue;
+    text-align: center;
+}
+
+ol{
+    text-align: center;
+    color: brown;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
+
+img{
+    color: black; 
+    text-align: end;
+}
+
+h1{
+    color: brown;
+}
+
+img{
+    resize: horizontal;
+}
